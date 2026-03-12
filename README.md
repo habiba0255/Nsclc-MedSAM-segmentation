@@ -111,6 +111,6 @@ Code will be made available upon publication of the full manuscript. For collabo
 ## Corresponding Author
 
 **Habiba Habchi, M.Sc.**  
-ML Researcher | Medical Image Analysis  
+Biophysicist & ML Researcher · Medical Image Analysis · PET/CT · Precision Oncology
 Department of Nuclear Medicine, CHU Sahloul, Sousse, Tunisia  
 [LinkedIn](https://www.linkedin.com/in/habiba-habchi-2b2a72257/) · [ORCID](https://orcid.org/0009-0000-1703-7406)
