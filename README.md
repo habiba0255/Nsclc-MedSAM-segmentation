@@ -91,7 +91,7 @@ scipy
 
 ## Abstract & Citation
 
-Full abstract available in the [EANM 2025 Abstract Book](./Abstract.pdf#page=12).
+Full abstract available in the [EANM 2025 Abstract Book](./Abstract.pdf#S=12).
 
 ```
 Habchi H, Daoud B, Mensi S, Chatti K. A Hybrid Deep Learning Model for Tumor 
